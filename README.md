@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jayesh6297
+- 👋 Hi, I’m @ark-j
 - 👀 I’m interested in backend dev
 - 🌱 I’m currently working on Go and Python
 - 💞️ I’m learning bit of frontend now.
