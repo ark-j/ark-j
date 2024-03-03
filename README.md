@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ark-j
-- 👀 I’m interested in backend dev
-- 🌱 I’m currently working on Go and Python
-- 💞️ I’m learning bit of frontend now.
+- 👀 I’m interested in backend dev and currently working on Golang and python
 - 📫 reach me at my mail jayesh6297@gmail.com
 
 <!---
